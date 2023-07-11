@@ -1,0 +1,8 @@
+C:\Users\Abeysinghe\source\repos\Lab 12 Question 2\Lab 12 Question 2\bin\Debug\Lab 12 Question 2.exe.config
+C:\Users\Abeysinghe\source\repos\Lab 12 Question 2\Lab 12 Question 2\bin\Debug\Lab 12 Question 2.exe
+C:\Users\Abeysinghe\source\repos\Lab 12 Question 2\Lab 12 Question 2\bin\Debug\Lab 12 Question 2.pdb
+C:\Users\Abeysinghe\source\repos\Lab 12 Question 2\Lab 12 Question 2\obj\Debug\Lab 12 Question 2.csproj.AssemblyReference.cache
+C:\Users\Abeysinghe\source\repos\Lab 12 Question 2\Lab 12 Question 2\obj\Debug\Lab 12 Question 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abeysinghe\source\repos\Lab 12 Question 2\Lab 12 Question 2\obj\Debug\Lab 12 Question 2.csproj.CoreCompileInputs.cache
+C:\Users\Abeysinghe\source\repos\Lab 12 Question 2\Lab 12 Question 2\obj\Debug\Lab 12 Question 2.exe
+C:\Users\Abeysinghe\source\repos\Lab 12 Question 2\Lab 12 Question 2\obj\Debug\Lab 12 Question 2.pdb

@@ -1,0 +1,16 @@
+C:\Users\Abeysinghe\source\repos\Lab  10\Lab  10\bin\Debug\Lab  10.exe.config
+C:\Users\Abeysinghe\source\repos\Lab  10\Lab  10\bin\Debug\Lab  10.exe
+C:\Users\Abeysinghe\source\repos\Lab  10\Lab  10\bin\Debug\Lab  10.pdb
+C:\Users\Abeysinghe\source\repos\Lab  10\Lab  10\obj\Debug\Lab  10.csproj.AssemblyReference.cache
+C:\Users\Abeysinghe\source\repos\Lab  10\Lab  10\obj\Debug\Lab  10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abeysinghe\source\repos\Lab  10\Lab  10\obj\Debug\Lab  10.csproj.CoreCompileInputs.cache
+C:\Users\Abeysinghe\source\repos\Lab  10\Lab  10\obj\Debug\Lab  10.exe
+C:\Users\Abeysinghe\source\repos\Lab  10\Lab  10\obj\Debug\Lab  10.pdb
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.27\Lab  10\Lab  10\bin\Debug\Lab  10.exe.config
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.27\Lab  10\Lab  10\bin\Debug\Lab  10.exe
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.27\Lab  10\Lab  10\bin\Debug\Lab  10.pdb
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.27\Lab  10\Lab  10\obj\Debug\Lab  10.csproj.AssemblyReference.cache
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.27\Lab  10\Lab  10\obj\Debug\Lab  10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.27\Lab  10\Lab  10\obj\Debug\Lab  10.csproj.CoreCompileInputs.cache
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.27\Lab  10\Lab  10\obj\Debug\Lab  10.exe
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.27\Lab  10\Lab  10\obj\Debug\Lab  10.pdb

@@ -1,0 +1,8 @@
+C:\Users\Abeysinghe\source\repos\Lab10 Question 3\Lab10 Question 3\bin\Debug\Lab10 Question 3.exe.config
+C:\Users\Abeysinghe\source\repos\Lab10 Question 3\Lab10 Question 3\bin\Debug\Lab10 Question 3.exe
+C:\Users\Abeysinghe\source\repos\Lab10 Question 3\Lab10 Question 3\bin\Debug\Lab10 Question 3.pdb
+C:\Users\Abeysinghe\source\repos\Lab10 Question 3\Lab10 Question 3\obj\Debug\Lab10 Question 3.csproj.AssemblyReference.cache
+C:\Users\Abeysinghe\source\repos\Lab10 Question 3\Lab10 Question 3\obj\Debug\Lab10 Question 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abeysinghe\source\repos\Lab10 Question 3\Lab10 Question 3\obj\Debug\Lab10 Question 3.csproj.CoreCompileInputs.cache
+C:\Users\Abeysinghe\source\repos\Lab10 Question 3\Lab10 Question 3\obj\Debug\Lab10 Question 3.exe
+C:\Users\Abeysinghe\source\repos\Lab10 Question 3\Lab10 Question 3\obj\Debug\Lab10 Question 3.pdb

@@ -1,0 +1,16 @@
+C:\Users\Abeysinghe\source\repos\Lab 8 Question 2\Lab 8 Question 2\obj\Debug\Lab 8 Question 2.csproj.AssemblyReference.cache
+C:\Users\Abeysinghe\source\repos\Lab 8 Question 2\Lab 8 Question 2\obj\Debug\Lab 8 Question 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abeysinghe\source\repos\Lab 8 Question 2\Lab 8 Question 2\obj\Debug\Lab 8 Question 2.csproj.CoreCompileInputs.cache
+C:\Users\Abeysinghe\source\repos\Lab 8 Question 2\Lab 8 Question 2\bin\Debug\Lab 8 Question 2.exe.config
+C:\Users\Abeysinghe\source\repos\Lab 8 Question 2\Lab 8 Question 2\bin\Debug\Lab 8 Question 2.exe
+C:\Users\Abeysinghe\source\repos\Lab 8 Question 2\Lab 8 Question 2\bin\Debug\Lab 8 Question 2.pdb
+C:\Users\Abeysinghe\source\repos\Lab 8 Question 2\Lab 8 Question 2\obj\Debug\Lab 8 Question 2.exe
+C:\Users\Abeysinghe\source\repos\Lab 8 Question 2\Lab 8 Question 2\obj\Debug\Lab 8 Question 2.pdb
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.13\Lab 8 Question 2\Lab 8 Question 2\bin\Debug\Lab 8 Question 2.exe.config
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.13\Lab 8 Question 2\Lab 8 Question 2\bin\Debug\Lab 8 Question 2.exe
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.13\Lab 8 Question 2\Lab 8 Question 2\bin\Debug\Lab 8 Question 2.pdb
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.13\Lab 8 Question 2\Lab 8 Question 2\obj\Debug\Lab 8 Question 2.csproj.AssemblyReference.cache
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.13\Lab 8 Question 2\Lab 8 Question 2\obj\Debug\Lab 8 Question 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.13\Lab 8 Question 2\Lab 8 Question 2\obj\Debug\Lab 8 Question 2.csproj.CoreCompileInputs.cache
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.13\Lab 8 Question 2\Lab 8 Question 2\obj\Debug\Lab 8 Question 2.exe
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.13\Lab 8 Question 2\Lab 8 Question 2\obj\Debug\Lab 8 Question 2.pdb

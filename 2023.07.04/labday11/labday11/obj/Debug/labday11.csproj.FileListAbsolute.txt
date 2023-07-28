@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\WORK\Visual Studio Projects\labday11\labday11\obj\Debug\labday11.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\WORK\Visual Studio Projects\labday11\labday11\obj\Debug\labday11.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\WORK\Visual Studio Projects\labday11\labday11\obj\Debug\labday11.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\WORK\Visual Studio Projects\labday11\labday11\bin\Debug\labday11.exe.config
+C:\Users\USER\Desktop\WORK\Visual Studio Projects\labday11\labday11\bin\Debug\labday11.exe
+C:\Users\USER\Desktop\WORK\Visual Studio Projects\labday11\labday11\bin\Debug\labday11.pdb
+C:\Users\USER\Desktop\WORK\Visual Studio Projects\labday11\labday11\obj\Debug\labday11.exe
+C:\Users\USER\Desktop\WORK\Visual Studio Projects\labday11\labday11\obj\Debug\labday11.pdb
+C:\Users\Abeysinghe\Downloads\labday11\labday11\labday11\bin\Debug\labday11.exe.config
+C:\Users\Abeysinghe\Downloads\labday11\labday11\labday11\bin\Debug\labday11.exe
+C:\Users\Abeysinghe\Downloads\labday11\labday11\labday11\bin\Debug\labday11.pdb
+C:\Users\Abeysinghe\Downloads\labday11\labday11\labday11\obj\Debug\labday11.csproj.AssemblyReference.cache
+C:\Users\Abeysinghe\Downloads\labday11\labday11\labday11\obj\Debug\labday11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abeysinghe\Downloads\labday11\labday11\labday11\obj\Debug\labday11.csproj.CoreCompileInputs.cache
+C:\Users\Abeysinghe\Downloads\labday11\labday11\labday11\obj\Debug\labday11.exe
+C:\Users\Abeysinghe\Downloads\labday11\labday11\labday11\obj\Debug\labday11.pdb

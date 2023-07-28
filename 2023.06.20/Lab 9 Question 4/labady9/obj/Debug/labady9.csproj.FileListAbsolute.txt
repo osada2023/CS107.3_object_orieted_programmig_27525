@@ -1,0 +1,32 @@
+C:\Users\USER\Desktop\WORK\Visual Studio Projects\labady9\labady9\bin\Debug\labady9.exe.config
+C:\Users\USER\Desktop\WORK\Visual Studio Projects\labady9\labady9\bin\Debug\labady9.exe
+C:\Users\USER\Desktop\WORK\Visual Studio Projects\labady9\labady9\bin\Debug\labady9.pdb
+C:\Users\USER\Desktop\WORK\Visual Studio Projects\labady9\labady9\obj\Debug\labady9.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\WORK\Visual Studio Projects\labady9\labady9\obj\Debug\labady9.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\WORK\Visual Studio Projects\labady9\labady9\obj\Debug\labady9.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\WORK\Visual Studio Projects\labady9\labady9\obj\Debug\labady9.exe
+C:\Users\USER\Desktop\WORK\Visual Studio Projects\labady9\labady9\obj\Debug\labady9.pdb
+C:\Users\Abeysinghe\Desktop\labady9\labady9\labady9\bin\Debug\labady9.exe.config
+C:\Users\Abeysinghe\Desktop\labady9\labady9\labady9\bin\Debug\labady9.exe
+C:\Users\Abeysinghe\Desktop\labady9\labady9\labady9\bin\Debug\labady9.pdb
+C:\Users\Abeysinghe\Desktop\labady9\labady9\labady9\obj\Debug\labady9.csproj.AssemblyReference.cache
+C:\Users\Abeysinghe\Desktop\labady9\labady9\labady9\obj\Debug\labady9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abeysinghe\Desktop\labady9\labady9\labady9\obj\Debug\labady9.csproj.CoreCompileInputs.cache
+C:\Users\Abeysinghe\Desktop\labady9\labady9\labady9\obj\Debug\labady9.exe
+C:\Users\Abeysinghe\Desktop\labady9\labady9\labady9\obj\Debug\labady9.pdb
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.20\labady9\bin\Debug\labady9.exe.config
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.20\labady9\bin\Debug\labady9.exe
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.20\labady9\bin\Debug\labady9.pdb
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.20\labady9\obj\Debug\labady9.csproj.AssemblyReference.cache
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.20\labady9\obj\Debug\labady9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.20\labady9\obj\Debug\labady9.csproj.CoreCompileInputs.cache
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.20\labady9\obj\Debug\labady9.exe
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.20\labady9\obj\Debug\labady9.pdb
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.20\Lab 9 Question 4\labady9\bin\Debug\labady9.exe.config
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.20\Lab 9 Question 4\labady9\bin\Debug\labady9.exe
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.20\Lab 9 Question 4\labady9\bin\Debug\labady9.pdb
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.20\Lab 9 Question 4\labady9\obj\Debug\labady9.csproj.AssemblyReference.cache
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.20\Lab 9 Question 4\labady9\obj\Debug\labady9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.20\Lab 9 Question 4\labady9\obj\Debug\labady9.csproj.CoreCompileInputs.cache
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.20\Lab 9 Question 4\labady9\obj\Debug\labady9.exe
+C:\Users\Abeysinghe\Desktop\Git Hub\programming in c#\2023.06.20\Lab 9 Question 4\labady9\obj\Debug\labady9.pdb
